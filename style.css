@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(34, 33, 33);
+}
+
+
+h1{
+    color:rgb(0, 0, 0)
+}
+p{
+    color: rgb(161, 161, 161);
+}
+
+.header{
+    background-color: rgb(255, 255, 255);
+}
+
+.top{
+    display: flex;
+    justify-content: center;
+}
+.contant{
+    background-color: rgb(114, 114, 114);
+  
+    
+}
+.menu{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-evenly;
+}
+.trex{
+    background-color: rgb(51, 51, 51);
+    display: flex;
+    justify-content: left;
+
+    padding-left: 65%;
+}
+.pong{
+    background-color: rgb(51, 51, 51);
+    display: flex;
+    justify-content: right;
+    padding-right: 0%;
+}.angry-bird{
+    background-color: rgb(51, 51, 51);
+    display: flex;
+    justify-content: center;
+    padding-left: 80%;
+
+}.car-game{
+    background-color: rgb(51, 51, 51);
+    display: flex;
+    justify-content: center;
+        padding-right: 80%;
+
+}
+.icon{
+    display: flex;
+    justify-content:"flex-end";
+}
+.end{
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+.text{
+    padding-left: 35%;
+    color: blanchedalmond;
+    text-decoration: underline;
+}
+h2{
+    color: white;
+    
+}
+
